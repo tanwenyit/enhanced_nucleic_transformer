@@ -24,7 +24,6 @@ ranger-adabelief 0.1.0
 adabelief-pytorch 0.2.1
 pandas 1.1.2
 numpy 1.19.2
-
 ```
 
 ## Code to reproduce results for the openvaccine dataset
