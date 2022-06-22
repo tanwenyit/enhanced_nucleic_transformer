@@ -26,6 +26,15 @@ pandas 1.1.2
 numpy 1.19.2
 ```
 
+Alternatively, You can import my environment directly by using the code below to save your time and avoid any package dependency issue.
+```
+conda env create -f environment.yml
+```
+then you can activate the environment, but make sure you check the env name by using the code below
+```
+conda env list
+```
+
 ## Code to reproduce results for the openvaccine dataset
 
 Here I include the hypeparameters that give the best single model.
